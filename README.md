@@ -1,4 +1,4 @@
-# How to install the sample kit on a web server:
+#-> How to install the sample kit on a web server:
  1. Copy PaytmKit folder in document root of your server (like /var/www/html)
  2. Open config_paytm.php file from the PaytmKit/lib folder and update the below constant values
     - PAYTM_MERCHANT_KEY – Provided by Paytm
